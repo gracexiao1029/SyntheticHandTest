@@ -1,7 +1,7 @@
 # SyntheticHandTest
 
 ## Set-up
-Unity version: 2021.3.33f1
+Unity version: `2021.3.33f1`
 
 Download packages:
 
